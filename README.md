@@ -12,7 +12,7 @@ This project is a voice cloning application that allows users to clone voices us
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/lordgrimx/Voice-Cloner-Turkish
 ```
 
 2. Create a virtual environment:
@@ -52,4 +52,4 @@ python app.py
 
 ## License
 
-[Your chosen license]
+MIT License
